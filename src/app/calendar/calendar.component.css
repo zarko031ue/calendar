@@ -1,0 +1,21 @@
+.calendar {
+    width: 280px;
+    margin: 10px auto 0px;
+   
+  }
+  .day {
+    width: 40px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+
+
+  .today-date {
+    color: white;
+    background-color: rgb(16, 110, 190);
+  }
+  
+  .header{ 
+    width: 170px;
+    margin: 10px auto 0px;
+  }
